@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # Filepath for the CSV file
-csv_file = "dashboard/Offline University Contact List - Staff.csv"
+csv_file = "Offline University Contact List - Staff.csv"
 
 # Load data
 def load_data(file_path):
